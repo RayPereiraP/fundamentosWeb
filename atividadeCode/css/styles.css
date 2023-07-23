@@ -1,0 +1,422 @@
+/* Estilos Home */
+
+.novidade{ 
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    letter-spacing: -0.6px;
+    word-spacing: 1.6px;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    color: rgb(207, 226, 243);
+    text-align:center ;
+    background-color: rgba(68, 143, 194, 0.925);
+    padding: 25px 50px;
+    border-style: double;
+    border: 2px solid rgba(12, 79, 124, 0.925);
+    border-radius: 4px;
+    text-shadow: 2px 2px 5px rgb(29, 14, 163);
+    margin-right: 150px;
+    margin-left: 150px ;
+
+}
+.novidade h1{
+    
+    font-family: "Times New Roman", Times, serif;
+    font-size: 33px;
+    letter-spacing: 1px;
+    word-spacing: 0.8px;
+    font-weight: 700;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 1px #091449,
+     0px 1px 1px #1b0a68, 2px 1px 1px #5c0404, 1px 2px 1px #130452,
+     3px 2px 1px #490c5c, 2px 3px 1px #172f70, 4px 3px 1px #daa1a1,
+     3px 4px 1px #320a8f, 5px 4px 1px #1d0241, 4px 5px 1px #13075a,
+     6px 5px 1px #1c0657, 5px 6px 1px #1b0872, 7px 6px 1px #627bc0;
+}
+.jornada {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    letter-spacing: -0.6px;
+    word-spacing: 1.6px;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+    color: rgb(207, 226, 243);
+    text-align: center;
+    background-color: rgba(68, 143, 194, 0.925);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    border-style: double;
+    border: 2px solid rgba(12, 79, 124, 0.925);
+    border-radius: 4px;
+    margin-right: 150px;
+    margin-left: 150px ;
+    
+    text-shadow: 2px 2px 5px rgb(29, 14, 163);
+}
+.jornada h2{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 33px;
+    letter-spacing: 1px;
+    word-spacing: 0.8px;
+    font-weight: 700;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 1px #091449,
+     0px 1px 1px #1b0a68, 2px 1px 1px #5c0404, 1px 2px 1px #130452,
+     3px 2px 1px #490c5c, 2px 3px 1px #172f70, 4px 3px 1px #daa1a1,
+     3px 4px 1px #320a8f, 5px 4px 1px #1d0241, 4px 5px 1px #13075a,
+     6px 5px 1px #1c0657, 5px 6px 1px #1b0872, 7px 6px 1px #627bc0;
+}
+.jornada img {
+    border-style: double;
+    border: 2px solid rgba(61, 8, 71, 0.568);
+    border-radius: 4px;
+}
+
+.serviço{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    letter-spacing: -0.6px;
+    word-spacing: 1.6px;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+    text-align: center;
+    color: rgb(207, 226, 243);
+    padding: 25px 50px;
+    border-style: double;
+    border: 2px solid rgba(12, 79, 124, 0.925);
+    border-radius: 4px;
+    background-color: rgba(68, 143, 194, 0.925);
+    text-shadow: 2px 2px 5px rgb(29, 14, 163);
+    margin-right: 150px;
+    margin-left: 150px ;
+
+}
+.serviço h2{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 33px;
+    letter-spacing: 1px;
+    word-spacing: 0.8px;
+    font-weight: 700;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 1px #091449,
+     0px 1px 1px #1b0a68, 2px 1px 1px #5c0404, 1px 2px 1px #130452,
+     3px 2px 1px #490c5c, 2px 3px 1px #172f70, 4px 3px 1px #daa1a1,
+     3px 4px 1px #320a8f, 5px 4px 1px #1d0241, 4px 5px 1px #13075a,
+     6px 5px 1px #1c0657, 5px 6px 1px #1b0872, 7px 6px 1px #627bc0;
+}
+
+.serviço ul{
+    display: flex;
+
+}
+
+/* Estilo evento */
+
+.ola{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    letter-spacing: -0.6px;
+    word-spacing: 1.6px;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    color: rgb(49,9,39);
+    text-align:center ;
+    background-color: rgba(68, 143, 194, 0.925);
+    padding: 25px 50px;
+    border-style: double;
+    border: 2px solid rgba(12, 79, 124, 0.925);
+    border-radius: 4px;
+    text-shadow: 2px 2px 5px rgb(41, 33, 105);
+    margin-right: 150px;
+    margin-left: 150px ;
+}
+
+.ola h1{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 33px;
+    letter-spacing: 1px;
+    word-spacing: 0.8px;
+    font-weight: 700;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 1px #152a96,
+     0px 1px 1px #8673d6, 2px 1px 1px #d44242, 1px 2px 1px #7d769b,
+     3px 2px 1px #870dac, 2px 3px 1px #172f70, 4px 3px 1px #daa1a1,
+     3px 4px 1px #320a8f, 5px 4px 1px #5f1fb3, 4px 5px 1px #302185,
+     6px 5px 1px #441ab8, 5px 6px 1px #382396, 7px 6px 1px #627bc0;
+}
+
+.Regra{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    letter-spacing: -0.6px;
+    word-spacing: 1.6px;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    color: rgb(49, 9, 39);
+    text-align:justify ;
+    background-color: rgba(68, 143, 194, 0.925);
+    padding: 25px 50px;
+    border-style: double;
+    border: 2px solid rgba(12, 79, 124, 0.925);
+    border-radius: 4px;
+    text-shadow: 2px 2px 5px rgb(41, 33, 105);
+    margin-right: 150px;
+    margin-left: 150px ;
+   }
+
+.Regra h2{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 33px;
+    letter-spacing: 1px;
+    word-spacing: 0.8px;
+    font-weight: 700;
+    font-style: italic;
+    text-align:center ;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 1px #152a96,
+     0px 1px 1px #8673d6, 2px 1px 1px #d44242, 1px 2px 1px #7d769b,
+     3px 2px 1px #870dac, 2px 3px 1px #172f70, 4px 3px 1px #daa1a1,
+     3px 4px 1px #320a8f, 5px 4px 1px #5f1fb3, 4px 5px 1px #302185,
+     6px 5px 1px #441ab8, 5px 6px 1px #382396, 7px 6px 1px #627bc0;
+}
+.Regra p {
+    text-align:center ;
+}
+.h2{
+    
+    font-family: "Times New Roman", Times, serif;
+    font-size: 33px;
+    letter-spacing: 1px;
+    word-spacing: 0.8px;
+    font-weight: 700;
+    font-style: italic;
+    text-align:center ;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 1px #152a96,
+     0px 1px 1px #8673d6, 2px 1px 1px #d44242, 1px 2px 1px #7d769b,
+     3px 2px 1px #870dac, 2px 3px 1px #172f70, 4px 3px 1px #daa1a1,
+     3px 4px 1px #320a8f, 5px 4px 1px #5f1fb3, 4px 5px 1px #302185,
+     6px 5px 1px #441ab8, 5px 6px 1px #382396, 7px 6px 1px #627bc0;
+     background-color: rgba(68, 143, 194, 0.925);
+     padding: 25px 50px;
+     border-style: double;
+     border: 2px solid rgba(12, 79, 124, 0.925);
+     border-radius: 4px;
+     text-shadow: 2px 2px 5px rgb(41, 33, 105);
+     margin-right: 150px;
+     margin-top:0;
+     margin-bottom: 0;
+     margin-left: 150px ;
+}
+.Video{
+    background-color: rgba(68, 143, 194, 0.925);
+    padding: 25px 50px;
+    border-style: double;
+    border: 2px solid rgba(12, 79, 124, 0.925);
+    border-radius: 4px;
+    margin-right: 150px;
+    margin-left: 150px;
+    display: flex;
+    justify-content: center;
+}
+/* Estilo contato */
+.formulario {
+     background-color: rgba(68, 143, 194, 0.925);
+     padding: 25px 50px;
+     border-style: double;
+     border: 2px solid rgba(12, 79, 124, 0.925);
+     border-radius: 4px;
+     text-shadow: 2px 2px 5px rgb(41, 33, 105);
+     margin-right: 150px;
+     margin-top:0;
+     margin-bottom: 0;
+     margin-left: 150px ;
+     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 33px;
+    letter-spacing: 1px;
+    word-spacing: 0.8px;
+    font-weight: 700;
+    font-style: italic;
+    text-align:center ;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 1px #152a96,
+     0px 1px 1px #8673d6, 2px 1px 1px #d44242, 1px 2px 1px #7d769b,
+     3px 2px 1px #870dac, 2px 3px 1px #172f70, 4px 3px 1px #daa1a1,
+     3px 4px 1px #320a8f, 5px 4px 1px #5f1fb3, 4px 5px 1px #302185,
+     6px 5px 1px #441ab8, 5px 6px 1px #382396, 7px 6px 1px #627bc0;
+    margin-bottom: 30px;
+}
+
+.campo {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    word-spacing: 0.8px;
+    font-weight: 700;
+    font-style: italic;
+    text-align:justify ;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 1px #152a96,
+    
+    
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transition: border-color 0.3s;
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+    border-color: #8e44ad;
+}
+
+.botao {
+    text-align: center;
+}
+
+button {
+    background-color: #8e44ad;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #6c3483;
+}
+.Endereço{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    letter-spacing: -0.6px;
+    word-spacing: 1.6px;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    color: rgb(49, 9, 39);
+    text-align:center ;
+    background-color: rgba(68, 143, 194, 0.925);
+    padding: 25px 50px;
+    border-style: double;
+    border: 2px solid rgba(12, 79, 124, 0.925);
+    border-radius: 4px;
+    text-shadow: 2px 2px 5px rgb(41, 33, 105);
+    margin-right: 150px;
+    margin-left: 150px ;
+
+}
+.Endereço h2{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 33px;
+    letter-spacing: 1px;
+    word-spacing: 0.8px;
+    font-weight: 700;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: capitalize;
+    text-shadow: 1px 0px 1px #152a96,
+     0px 1px 1px #8673d6, 2px 1px 1px #d44242, 1px 2px 1px #7d769b,
+     3px 2px 1px #870dac, 2px 3px 1px #172f70, 4px 3px 1px #daa1a1,
+     3px 4px 1px #320a8f, 5px 4px 1px #5f1fb3, 4px 5px 1px #302185,
+     6px 5px 1px #441ab8, 5px 6px 1px #382396, 7px 6px 1px #627bc0;
+    margin-bottom: 30px;
+}
+.menu li,a{
+    display: inline;
+    padding: 15px;
+    text-decoration: none;
+    
+    color: #793535;
+    font-size: 20px;
+}
+.menu li,a:hover{
+    color: azure;
+    
+}
+.center{
+    text-align:center ;
+    color: #582323;
+}
+.img{
+    text-align:center ;
+   height: 30px;
+   width: 30px;
+   padding: 10px;
+   
+}
+.line {
+    position: relative;
+    width: 100%;
+    margin: auto;
+    border-right: 2px solid rgba(255, 255, 255, 0.75);
+    font-size: 180%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  
+  .anim-typewriter {
+    animation: typewriter 10s steps(30) 500ms infinite,
+      blinkTextCursor 1000ms steps(30) infinite normal;
+  }
+  
+  @keyframes typewriter {
+    from {
+      width: 0;
+    }
+    to {
+      width: 80%;
+    }
+  }
+  
+  @keyframes blinkTextCursor {
+    from {
+      border-right-color: rgba(255, 255, 255, 0.75);
+    }
+    to {
+      border-right-color: transparent;
+    }
+  }
+  

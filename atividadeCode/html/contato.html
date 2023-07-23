@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <link rel="stylesheet" href="assets/CSS/styles.css">
+    <script src="./js/scripts.js"></script>
+
+    <style>
+        
+        body {
+           background-image: url("assets/img/.gif");
+           background-repeat: no-repeat;
+           background-attachment: fixed;
+           background-size: 100% 100%;
+        }
+             
+         </style>
+</head>
+<body>
+    
+    <ul class="menu">
+        <li> <a href="home.html" target="_blank">Home</a>  </li>
+        <li> <a href="evento.html" target="_blank">Eventos</a>  </li>
+        <li> <a href="contato.html" target="_blank">Contato</a> </li>
+       
+    </ul>
+
+    <div class = "formulario">
+    <h1  class="line anim-typewriter">Entre em contato para que possamos trocar ideias</h1> 
+
+    <form>
+            <div class="campo">
+                <label for="nome">Nome:</label>
+            </div>
+
+            <div>
+                <input type="text" id="nome" name="nome" required placeholder="Digite seu nome" onkeyup="validarNome()">
+                <div id="nome"></div>
+
+            </div>
+            <div class="campo">
+                <label for="email">Email:</label>
+            </div>
+
+            <div>
+                <input type="email" id="email" name="email" required placeholder="Digite seu e-mail"
+                    onkeyup="validarEmail()">
+                <div id="email"></div>
+            </div>
+
+            <div class="campo">
+                <label for="telefone">Numero de Telefone:</label>
+            </div>
+
+            <div>
+                <input type="text" id="telefone" name="telefone" required placeholder="Digite seu Numero de Telefone"
+                    onkeyup="validarTelefone()">
+                <div id="telefone"></div>
+            </div>
+
+            <div class="campo">
+                <label for="mensagem">Mensagem:</label>
+            </div>
+
+            <div>
+                <textarea id="mensagem" name="mensagem" required placeholder="Digite uma mensagem"
+                    onkeyup="validarmensagem()"></textarea>
+                <div id="mensagem"></div>
+            </div>
+
+            <div class="botao">
+                <button type="submit">Enviar</button>
+            </div>
+            
+        </form>
+
+    </div>
+    <div class = "Endereço">
+
+    <h2  class="line anim-typewriter" > Endereço </h2>
+
+    <p>Avenida Paulista - 1811</p>
+    <p>Bela Vista - São Paulo</p>
+    <p>01311-200</p>
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.2249885463066!2d-46.66060122408442!3d-23.560361661556605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce59dda627a4c1%3A0x5b2894a7ce278306!2sM%C3%A9qui%201000!5e0!3m2!1spt-BR!2sbr!4v1690154130707!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    </div>
+    
+
+    <hr>
+    <footer class="center">
+<p>
+    Todos os direitos autorais pertencem: Rayane Pereira &copy;
+</p>
+    </footer>
+
+</body>
+</html>
